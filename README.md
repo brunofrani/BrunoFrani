@@ -26,5 +26,5 @@ I'm a passionate iOS developer with several years of experience building high-qu
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/your-link](https://www.linkedin.com/in/brunofrani/))
+[LinkedIn](https://www.linkedin.com/in/brunofrani/)
 
