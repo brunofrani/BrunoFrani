@@ -24,7 +24,3 @@ I'm a passionate iOS developer with several years of experience building high-qu
 ---
 
 
-## 📫 Let's Connect
-
-[LinkedIn](https://www.linkedin.com/in/brunofrani/)
-
